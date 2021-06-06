@@ -7,7 +7,7 @@
 <title>Devops Project</title>
 </head>
 <body>
-<h1>Guru Register Form</h1>
+<h1>Devops Project</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
